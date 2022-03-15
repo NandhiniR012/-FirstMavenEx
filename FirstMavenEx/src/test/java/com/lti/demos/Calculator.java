@@ -9,7 +9,9 @@ public class Calculator {
 			int result=x+y;
 			return result ;
 			
+			
 		}
+
 		
 	}
 
